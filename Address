@@ -1,0 +1,10 @@
+class Address
+{
+    //Function to dislpay address 
+    void displayName()
+    { 
+        System.out.println("Pratik");
+        System.out.println("Bhagalpur");
+        System.out.println("Bihar-812002");
+    }
+}
