@@ -3,6 +3,6 @@ class Name
     //Function to display name
     void displayName()
     {
-        System.out.println("Pratik");
+        System.out.println("Your NAME");
     }
 }
