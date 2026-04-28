@@ -1,0 +1,8 @@
+class Name
+{
+    //Function to display name
+    void displayName()
+    {
+        System.out.println("Pratik");
+    }
+}
